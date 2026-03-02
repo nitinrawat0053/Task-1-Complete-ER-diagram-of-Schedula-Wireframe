@@ -32,7 +32,7 @@ The ER Diagram includes the following main entities:
 
 ## Loom Explanation Video
 
-Loom link - 
+Loom link - https://www.loom.com/share/f45dde4f0e114cbe9c0cca1d1ca8fe13
 
 ---
 
